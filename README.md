@@ -12,17 +12,6 @@
 - 대본 정보를 입력하고, 추가로 Template을 통한 프롬프트 엔지니어링으로 캐릭터의 말투를 최대한 따라하도록 구현했습니다.
 <br>
 
-## 팀원 구성
-
-<div align="center">
-
-| **팀장** | **팀원 1** | **팀원 2** | **팀원 3** | **팀원 4** |
-| :------: |  :------: | :------: | :------: | :------: |
-|[<img src="https://github.com/user-attachments/assets/df23edc1-a610-49ed-a6d7-704a5242f5b5" height=150 width=150> <br/> 이동호<br> @Github](https://github.com/Horidong) |[<img src="https://github.com/user-attachments/assets/153d75a7-9cae-4bda-9864-b5948461ffbb" height=150 width=150> <br/> 권세진<br>@Github](https://github.com/sjkwon1023) |[<img src="https://github.com/user-attachments/assets/e45e5af0-17a5-495b-8ad7-881c94553396" height=150 width=150> <br/> 김윤환<br>@Github](https://github.com/yoon-py) |[<img src="https://github.com/user-attachments/assets/1dabb2e8-da0d-4b9b-9a6e-480ddb460068" height=150 width=150> <br/> 김정우<br>@Github](https://github.com/jw3520) |[<img src="https://github.com/user-attachments/assets/6b16588c-d583-4b1d-9cce-246467a0eb12" height=150 width=150> <br/> 천세민<br>@Github](https://github.com/affable17) |
-</div>
-
-<br>
-
 ## 1. 개발 환경
 
 - 주 언어 : Python 3.10.14
