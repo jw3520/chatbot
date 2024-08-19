@@ -1,6 +1,7 @@
 # Chat in Movie
 - 영화 스크립트를 통한 영화 캐릭터 Persona Chatbot
-  
+![image](https://github.com/user-attachments/assets/cde8bf85-1386-4d78-8bd2-f21b39f8d053)
+
 
 <br>
 
