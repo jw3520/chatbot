@@ -56,12 +56,6 @@
      ├── retriever.py
      ├── llm.py
      ├── define_persona.py
-     ├── legacy_codes
-          ├── crawler_bck.py
-          ├── crawler_inside_man.py
-          ├── crawler_war_on_crime.py
-          ├── main_bck.py
-          └── vector_store_bck.py
      └── resources
           ├── api_key.txt
           ├── dialogues
